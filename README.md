@@ -14,10 +14,10 @@
   <h4 align="center">
     <div>Built with:</div>
     <br />
-    <a href="https://www.typescriptlang.org/docs/">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="./images/html-5.svg" alt="Logo" width="60" height="60">
     </a>
-    <a style="margin-left: 50px" href="https://reactjs.org/docs/getting-started.html">
+    <a style="margin-left: 50px" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="./images/css-3.svg" alt="Logo" width="60" height="60">
     </a>
     <br />
