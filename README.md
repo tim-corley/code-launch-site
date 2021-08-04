@@ -61,7 +61,7 @@ git clone https://github.com/tim-corley/code-launch-site
 
 ## Contact
 
-Tim Corley | [@tcor215](https://twitter.com/tcor215) | contact@tim-corley.com
+Tim Corley | [@tcor215](https://twitter.com/tcor215) | contact@tim-corley.dev
 
 ## License
 
